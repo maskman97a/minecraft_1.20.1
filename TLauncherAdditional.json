@@ -1983,7 +1983,7 @@
       ],
       "shaderpacks": [
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 544096,
           "name": "Sildur's Vibrant shaders",
           "author": "sildur",
@@ -2089,6 +2089,162 @@
           "updated": 1691442000000,
           "update": 1691442000000,
           "downloadALL": 2599849,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 385587,
+          "name": "Complementary Shaders v4",
+          "author": "emingtr",
+          "linkProject": "https://www.curseforge.com/minecraft/customization/complementary-shaders",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 71,
+              "name": "configuration",
+              "shortName": "configuration",
+              "nesting": 0
+            }
+          ],
+          "picture": 476346,
+          "pictures": [
+            236007,
+            244817,
+            244812,
+            212162,
+            244814,
+            244810,
+            244807,
+            236010,
+            244806,
+            236006,
+            236008,
+            244816,
+            244809,
+            212161,
+            236009,
+            244811,
+            244808,
+            244815,
+            244818,
+            228191,
+            244813
+          ],
+          "lanName": "complementary-shaders",
+          "version": {
+            "id": 4913943,
+            "name": "ComplementaryUnbound_r5.1.1",
+            "updateDate": 1701344083000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 26,
+                "name": "1.15.2"
+              },
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 19,
+                "name": "1.13.2"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 9,
+                "name": "1.8.9"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 6,
+                "name": "1.10.2"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 23,
+                "name": "1.14.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 4,
+                "name": "1.11.2"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 7,
+                "name": "1.9.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              }
+            ],
+            "metadata": {
+              "sha1": "97d0619c7ab94fab85d46b5e70782ba56794c986",
+              "size": 404698,
+              "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+              "url": "/shaderpacks/385587/4913943/ComplementaryUnbound_r5.1.1.zip"
+            },
+            "available": false,
+            "minecraftVersionTypes": []
+          },
+          "downloadMonth": 603,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 49,
+            "name": "1.20.4"
+          },
+          "updated": 1685998800000,
+          "update": 1685998800000,
+          "downloadALL": 4415213,
           "available": true,
           "parser": true,
           "totalComments": 0,
