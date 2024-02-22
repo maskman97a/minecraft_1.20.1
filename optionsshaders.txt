@@ -1,3 +1,19 @@
-#
-#Wed Feb 14 13:35:38 ICT 2024
-shaderPack=Sildur's+Vibrant+Shaders+v1.51+Extreme-VL.zip
+#Wed Feb 21 19:34:40 ICT 2024
+handDepthMul=0.125
+TexMinFilB=0
+oldLighting=default
+TexMagFilN=0
+tweakBlockDamage=false
+cloudShadow=true
+TexMagFilS=0
+shaderPack=(internal)
+TexMinFilN=0
+specularMapEnabled=true
+normalMapEnabled=true
+renderResMul=1.0
+oldHandLight=default
+TexMinFilS=0
+shadowResMul=1.0
+shadowClipFrustrum=true
+TexMagFilB=0
+antialiasingLevel=0

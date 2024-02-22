@@ -1,0 +1,5 @@
+#Wed Feb 21 19:34:11 ICT 2024
+customStars=false
+Rain_Drops=false
+cloudsIT=6
+Cloudsblur=false

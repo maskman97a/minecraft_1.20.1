@@ -1,78 +1,82 @@
-[22:29:56] [main/INFO]: ModLauncher running: args [--username, TungPT, --version, 1.20.1.pro, --gameDir, C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro, --assetsDir, C:\Users\giaos\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, a3374ce55e1d4471869949eb6eaed2b9, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[22:29:56] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
-[22:29:56] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
-[22:29:57] [main/INFO]: Trying GL version 4.6
-[22:29:57] [main/INFO]: Requested GL version 4.6 got version 4.6
-[22:29:57] [main/INFO]: OptiFineTransformationService.onLoad
-[22:29:57] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/giaos/AppData/Roaming/.minecraft/versions/1.20.1.pro/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23180!/
-[22:29:57] [main/INFO]: OptiFine ZIP file: C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods\preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[22:29:57] [main/INFO]: Target.PRE_CLASS is available
-[22:29:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/giaos/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
-[22:29:57] [main/INFO]: OptiFineTransformationService.initialize
-[22:29:57] [pool-2-thread-1/INFO]: GL info: Radeon RX550/550 Series GL version 4.6.0 Core Profile Context 24.1.1.231127, ATI Technologies Inc.
-[22:29:57] [main/INFO]: Found mod file balm-forge-1.20.1-7.2.1.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file bettervillage-forge-1.20.1-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file citadel-2.5.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.10.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file cristellib-1.1.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file FallingTree-1.20.1-4.3.4.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file framework-forge-1.20.1-0.6.26.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file guardvillagers-1.20.1-1.6.3.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.20-1.10.9.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file invhud.forge.1.20.1-3.4.18.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file kotlinforforge-4.10.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file libIPN-forge-1.20-4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file libraryferret-forge-1.20.1-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file reap-forge-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file ToolSwap-1.20.1-5.0.0.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file Towns-and-Towers-1.12-Fabric+Forge.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file TravelersBackpack-1.20.1-9.1.12.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file u_team_core-forge-1.20.1-5.1.4.269.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file waystones-forge-1.20-14.1.3.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file Xaeros_Minimap_23.9.7_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:57] [main/INFO]: Found mod file XaerosWorldMap_1.37.8_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro\mods}
-[22:29:58] [main/WARN]: Mod file C:\Users\giaos\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.0\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[22:29:58] [main/WARN]: Mod file C:\Users\giaos\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.0\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[22:29:58] [main/WARN]: Mod file C:\Users\giaos\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.0\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[22:29:58] [main/WARN]: Mod file C:\Users\giaos\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.0\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[22:29:58] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5e9456ae
-[22:29:58] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5e9456ae
-[22:29:58] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5e9456ae
-[22:29:58] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5e9456ae
-[22:29:58] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5e9456ae
-[22:29:58] [main/INFO]: Found mod file forge-1.20.1-47.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5e9456ae
-[22:29:58] [main/INFO]: Found 6 dependencies adding them to mods collection
-[22:29:58] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7a8136b3
-[22:29:58] [main/INFO]: Found mod file kfflang-4.10.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7a8136b3
-[22:29:58] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7a8136b3
-[22:29:58] [main/INFO]: Found mod file kffmod-4.10.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7a8136b3
-[22:29:58] [main/INFO]: Found mod file kfflib-4.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7a8136b3
-[22:29:58] [main/INFO]: Found mod file jankson-1.2.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7a8136b3
-[22:29:59] [main/INFO]: OptiFineTransformationService.transformers
-[22:29:59] [main/INFO]: Targets: 412
-[22:29:59] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
-[22:30:00] [main/INFO]: Compatibility level set to JAVA_17
-[22:30:00] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[22:30:00] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.20.1.pro, --gameDir, C:\Users\giaos\AppData\Roaming\.minecraft\versions\1.20.1.pro, --assetsDir, C:\Users\giaos\AppData\Roaming\.minecraft\assets, --uuid, a3374ce55e1d4471869949eb6eaed2b9, --username, TungPT, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530]
-[22:30:01] [main/WARN]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:30:01] [main/WARN]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
-[22:30:01] [main/WARN]: Error loading class: de/maxhenkel/easyvillagers/blocks/tileentity/TraderTileentityBase (java.lang.ClassNotFoundException: de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase)
-[22:30:01] [main/WARN]: @Mixin target de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase was not found mixins.ipnext.json:MixinTraderTileEntityBase
-[22:30:03] [main/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[22:30:08] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 164 milliseconds
-[22:30:11] [Render thread/WARN]: Assets URL 'union:/C:/Users/giaos/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23204!/assets/.mcassetsroot' uses unexpected schema
-[22:30:11] [Render thread/WARN]: Assets URL 'union:/C:/Users/giaos/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23204!/data/.mcassetsroot' uses unexpected schema
-[22:30:11] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:30:12] [Render thread/ERROR]: Failed to verify authentication
+[07:59:37] [main/INFO]: ModLauncher running: args [--username, TungPT, --version, 1.20.1.pro, --gameDir, /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro, --assetsDir, /Users/tungthanh/Library/Application Support/minecraft/assets, --assetIndex, 5, --uuid, 67e742ff0f3a4ccaaf04439e50b5628e, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[07:59:37] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.3 by Microsoft; OS Mac OS X arch aarch64 version 14.1.2
+[07:59:37] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[07:59:37] [main/INFO]: Trying GL version 4.6
+[07:59:37] [main/INFO]: Trying GL version 4.5
+[07:59:37] [main/INFO]: Trying GL version 4.4
+[07:59:37] [main/INFO]: Trying GL version 4.3
+[07:59:37] [main/INFO]: Trying GL version 4.2
+[07:59:37] [main/INFO]: Trying GL version 4.1
+[07:59:37] [main/INFO]: Requested GL version 4.1 got version 4.1
+[07:59:37] [main/INFO]: OptiFineTransformationService.onLoad
+[07:59:37] [main/INFO]: OptiFine ZIP file URL: union:/Users/tungthanh/Library/Application%20Support/minecraft/versions/1.20.1.pro/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23175!/
+[07:59:37] [main/INFO]: OptiFine ZIP file: /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[07:59:37] [main/INFO]: Target.PRE_CLASS is available
+[07:59:37] [pool-2-thread-1/INFO]: GL info: Apple M1 Pro GL version 4.1 Metal - 88, Apple
+[07:59:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/Users/tungthanh/Library/Application%20Support/minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2394!/ Service=ModLauncher Env=CLIENT
+[07:59:38] [main/INFO]: OptiFineTransformationService.initialize
+[07:59:38] [main/INFO]: Found mod file balm-forge-1.20.1-7.2.1.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file bettervillage-forge-1.20.1-3.2.0.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file citadel-2.5.3-1.20.1.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.10.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file cristellib-1.1.5-forge.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file FallingTree-1.20.1-4.3.4.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file framework-forge-1.20.1-0.6.26.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file guardvillagers-1.20.1-1.6.3.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.20-1.10.9.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file invhud.forge.1.20.1-3.4.18.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file kotlinforforge-4.10.0-all.jar of type LIBRARY with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file libIPN-forge-1.20-4.0.1.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file libraryferret-forge-1.20.1-4.0.0.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file reap-forge-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file ToolSwap-1.20.1-5.0.0.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file Towns-and-Towers-1.12-Fabric+Forge.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file TravelersBackpack-1.20.1-9.1.12.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file u_team_core-forge-1.20.1-5.1.4.269.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file waystones-forge-1.20-14.1.3.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file Xaeros_Minimap_23.9.7_Forge_1.20.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/INFO]: Found mod file XaerosWorldMap_1.37.8_Forge_1.20.jar of type MOD with provider {mods folder locator at /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro/mods}
+[07:59:38] [main/WARN]: Mod file /Users/tungthanh/Library/Application Support/minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[07:59:38] [main/WARN]: Mod file /Users/tungthanh/Library/Application Support/minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[07:59:38] [main/WARN]: Mod file /Users/tungthanh/Library/Application Support/minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[07:59:38] [main/WARN]: Mod file /Users/tungthanh/Library/Application Support/minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[07:59:38] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@250b236d
+[07:59:38] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@250b236d
+[07:59:38] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@250b236d
+[07:59:38] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@250b236d
+[07:59:38] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@250b236d
+[07:59:38] [main/INFO]: Found mod file forge-1.20.1-47.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@250b236d
+[07:59:38] [main/INFO]: Found 6 dependencies adding them to mods collection
+[07:59:38] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7c6189d5
+[07:59:38] [main/INFO]: Found mod file kfflang-4.10.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7c6189d5
+[07:59:38] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7c6189d5
+[07:59:38] [main/INFO]: Found mod file kffmod-4.10.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7c6189d5
+[07:59:38] [main/INFO]: Found mod file kfflib-4.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7c6189d5
+[07:59:38] [main/INFO]: Found mod file jankson-1.2.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@7c6189d5
+[07:59:38] [main/INFO]: OptiFineTransformationService.transformers
+[07:59:38] [main/INFO]: Targets: 412
+[07:59:38] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[07:59:38] [main/INFO]: Compatibility level set to JAVA_17
+[07:59:39] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[07:59:39] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.20.1.pro, --gameDir, /Users/tungthanh/Library/Application Support/minecraft/versions/1.20.1.pro, --assetsDir, /Users/tungthanh/Library/Application Support/minecraft/assets, --uuid, 67e742ff0f3a4ccaaf04439e50b5628e, --username, TungPT, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[07:59:39] [main/WARN]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:59:39] [main/WARN]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[07:59:39] [main/WARN]: Error loading class: de/maxhenkel/easyvillagers/blocks/tileentity/TraderTileentityBase (java.lang.ClassNotFoundException: de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase)
+[07:59:39] [main/WARN]: @Mixin target de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase was not found mixins.ipnext.json:MixinTraderTileEntityBase
+[07:59:42] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 62 milliseconds
+[07:59:43] [Render thread/WARN]: Assets URL 'union:/Users/tungthanh/Library/Application%20Support/minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23199!/assets/.mcassetsroot' uses unexpected schema
+[07:59:43] [Render thread/WARN]: Assets URL 'union:/Users/tungthanh/Library/Application%20Support/minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23199!/data/.mcassetsroot' uses unexpected schema
+[07:59:43] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:59:44] [Render thread/ERROR]: Failed to verify authentication
 com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
-	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:649) ~[client-1.20.1-20230612.114412-srg.jar%23204!/:?]
-	at net.minecraft.client.Minecraft.<init>(Minecraft.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23204!/:?]
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar%23106!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar%23106!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63) ~[authlib-4.0.43.1.jar%23106!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.1.jar%23106!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:649) ~[client-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23199!/:?]
 	at net.minecraft.client.main.Main.main(Main.java:182) ~[1.20.1.pro.jar:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
@@ -90,537 +94,357 @@ com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
 Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.1.jar%23106!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar%23106!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar%23106!/:?]
 	... 20 more
-[22:30:12] [Render thread/INFO]: Setting user: TungPT
-[22:30:12] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
-[22:30:12] [Render thread/INFO]: [OptiFine] Forge version: 47.2.0
-[22:30:12] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
-[22:30:12] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
-[22:30:12] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
-[22:30:12] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
-[22:30:12] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
-[22:30:12] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
-[22:30:12] [Render thread/INFO]: [OptiFine] 
-[22:30:12] [Render thread/INFO]: [OptiFine] OptiFine_1.20.1_HD_U_I6_pre6
-[22:30:12] [Render thread/INFO]: [OptiFine] Build: 20230727-130058
-[22:30:12] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
-[22:30:12] [Render thread/INFO]: [OptiFine] Java: 17.0.3, Microsoft
-[22:30:12] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[22:30:12] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
-[22:30:12] [Render thread/INFO]: [OptiFine] OpenGL: Radeon RX550/550 Series, version 4.6.0 Core Profile Context 24.1.1.231127, ATI Technologies Inc.
-[22:30:12] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
-[22:30:12] [Render thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
-[22:30:12] [VersionCheck/INFO]: [OptiFine] Checking for new version
-[22:30:12] [Render thread/INFO]: [Shaders] OpenGL Version: 4.6.0 Core Profile Context 24.1.1.231127
-[22:30:12] [Render thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
-[22:30:12] [Render thread/INFO]: [Shaders] Renderer: Radeon RX550/550 Series
-[22:30:12] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[22:30:12] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[22:30:12] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
-[22:30:12] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[22:30:12] [Render thread/INFO]: [Shaders] Load shaders configuration.
-[22:30:12] [Render thread/INFO]: [Shaders] Loaded shaderpack: Sildur's+Vibrant+Shaders+v1.51+Extreme-VL.zip
-[22:30:12] [Render thread/INFO]: [OptiFine] [Shaders] Worlds: -1, 1
-[22:30:12] [Render thread/WARN]: [OptiFine] Invalid shader option: AS_sharpening
-[22:30:12] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
-[22:30:12] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
-[22:30:12] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
-[22:30:12] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.20.1/HD_U.txt
-[22:30:12] [Render thread/INFO]: [Shaders] Custom uniform: inSwamp
-[22:30:12] [Render thread/WARN]: [Shaders] net.optifine.expr.ParseException: Model variable not found: BIOME_SWAMP_HILLS
-[22:30:12] [Render thread/INFO]: [Shaders] Custom uniform: BiomeTemp
-[22:30:12] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
-[22:30:13] [modloading-worker-0/INFO]: Initialize mod Library Ferret
-[22:30:13] [modloading-worker-0/INFO]: Initialized mod Library Ferret
-[22:30:13] [modloading-worker-0/INFO]: Mod uteamcore is signed with a valid certificate.
-[22:30:13] [modloading-worker-0/INFO]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[22:30:13] [modloading-worker-0/INFO]: MinecraftForge v47.2.0 Initialized
-[22:30:13] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
-[22:30:13] [modloading-worker-0/INFO]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
-[22:30:13] [modloading-worker-0/INFO]: [libIPN] libIPN - init in Kotlin
-[22:30:15] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
-[22:30:15] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:15] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:15] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:15] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:15] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
-[22:30:15] [Render thread/INFO]: [OptiFine] Resource packs: mod_resources
-[22:30:15] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:15] [Worker-Main-4/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
-[22:30:15] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
-[22:30:15] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
-[22:30:15] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:15] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
-[22:30:15] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
-[22:30:15] [Worker-Main-3/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
-[22:30:15] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
-[22:30:15] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
-[22:30:15] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
-[22:30:15] [Worker-Main-3/INFO]: [OptiFine] Sprite size: 64
-[22:30:15] [Worker-Main-3/INFO]: [OptiFine] Mipmap levels: 6
-[22:30:15] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
-[22:30:15] [Worker-Main-3/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[22:30:15] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[22:30:15] [Render thread/ERROR]: OpenGL API ERROR: 1000 (glBindTexture has generated an error (GL_INVALID_OPERATION))
-java.lang.Exception: Stack trace
-	at org.lwjgl.opengl.GL11C.glBindTexture(Native Method) ~[lwjgl-opengl-3.3.1.jar%23147!/:build 7]
-	at net.minecraftforge.fml.earlydisplay.RenderElement.lambda$mojang$2(RenderElement.java:103) ~[fmlearlydisplay-1.20.1-47.2.0.jar%23105!/:1.0]
-	at net.minecraftforge.fml.earlydisplay.RenderElement.render(RenderElement.java:62) ~[fmlearlydisplay-1.20.1-47.2.0.jar%23105!/:1.0]
-	at net.minecraftforge.fml.earlydisplay.DisplayWindow.lambda$paintFramebuffer$7(DisplayWindow.java:258) ~[fmlearlydisplay-1.20.1-47.2.0.jar%23105!/:1.0]
-	at java.util.ArrayList.removeIf(ArrayList.java:1672) ~[?:?]
-	at java.util.ArrayList.removeIf(ArrayList.java:1660) ~[?:?]
-	at net.minecraftforge.fml.earlydisplay.DisplayWindow.paintFramebuffer(DisplayWindow.java:258) ~[fmlearlydisplay-1.20.1-47.2.0.jar%23105!/:1.0]
-	at net.minecraftforge.fml.earlydisplay.DisplayWindow.render(DisplayWindow.java:274) ~[fmlearlydisplay-1.20.1-47.2.0.jar%23105!/:1.0]
-	at net.minecraftforge.client.loading.ForgeLoadingOverlay.m_88315_(ForgeLoadingOverlay.java:84) ~[forge-1.20.1-47.2.0-universal.jar%23209!/:?]
-	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:1380) ~[client-1.20.1-20230612.114412-srg.jar%23204!/:?]
-	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1146) ~[client-1.20.1-20230612.114412-srg.jar%23204!/:?]
-	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23204!/:?]
-	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1.pro.jar:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.0.jar:?]
-	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.0.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22:30:15] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[22:30:15] [Worker-Main-3/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[22:30:16] [Worker-Main-1/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:16] [Worker-Main-1/INFO]: [OptiFine] Multipass connected textures: false
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-3/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
-[22:30:16] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[22:30:16] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 4
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[22:30:16] [Worker-Main-3/INFO]: [OptiFine] Mipmap levels: 4
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
-[22:30:16] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
-[22:30:16] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
-[22:30:16] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
-[22:30:16] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
-[22:30:17] [Forge Version Check/INFO]: [toolswap] Starting version check at https://assets.melanx.de/updates/automatic-tool-swap.json
-[22:30:17] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
-[22:30:17] [Forge Version Check/INFO]: [toolswap] Found status: BETA_OUTDATED Current: 1.20.1-5.0.0 Target: 1.20.1-5.0.1
-[22:30:17] [Forge Version Check/INFO]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
-[22:30:17] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
-[22:30:17] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[22:30:17] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[22:30:17] [Render thread/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[22:30:17] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[22:30:17] [Worker-Main-2/INFO]: Loading Xaero's World Map - Stage 1/2
-[22:30:17] [Worker-Main-5/INFO]: Loading Xaero's Minimap - Stage 1/2
-[22:30:17] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
-[22:30:17] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
-[22:30:18] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
-[22:30:18] [Forge Version Check/INFO]: [reap] Found status: AHEAD Current: 1.20.1-1.1.0 Target: null
-[22:30:18] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22:30:18] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
-[22:30:18] [Forge Version Check/INFO]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.12 Target: null
-[22:30:18] [Forge Version Check/INFO]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[22:30:18] [Forge Version Check/INFO]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.18 Target: null
-[22:30:18] [Forge Version Check/INFO]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[22:30:18] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
-[22:30:18] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
-[22:30:18] [Forge Version Check/INFO]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.3 Target: 1.20-1.6.1
-[22:30:18] [Forge Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[22:30:18] [Worker-Main-2/ERROR]: suppressed exception
-java.net.SocketTimeoutException: Read timed out
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2048) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2043) ~[?:?]
-	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2042) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1609) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
-	at xaero.common.patreon.Patreon.checkPatreon(Patreon.java:81) ~[Xaeros_Minimap_23.9.7_Forge_1.20.jar%23202!/:23.9.7]
-	at xaero.common.patreon.Patreon.checkPatreon(Patreon.java:60) ~[Xaeros_Minimap_23.9.7_Forge_1.20.jar%23202!/:23.9.7]
-	at xaero.map.patreon.Patreon.checkPatreon(Patreon.java:68) ~[XaerosWorldMap_1.37.8_Forge_1.20.jar%23203!/:1.37.8]
-	at xaero.map.WorldMap.loadClient(WorldMap.java:200) ~[XaerosWorldMap_1.37.8_Forge_1.20.jar%23203!/:1.37.8]
-	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
-	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107) ~[javafmllanguage-1.20.1-47.2.0.jar%23206!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:124) ~[fmlcore-1.20.1-47.2.0.jar%23205!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:283) ~[?:?]
-	at sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309) ~[?:?]
-	at sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350) ~[?:?]
-	at sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803) ~[?:?]
-	at java.net.Socket$SocketInputStream.read(Socket.java:966) ~[?:?]
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
-	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:791) ~[?:?]
-	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:726) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1688) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3221) ~[?:?]
-	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:637) ~[?:?]
-	at java.net.URLConnection.getContentLengthLong(URLConnection.java:509) ~[?:?]
-	at xaero.common.patreon.Patreon.checkPatreon(Patreon.java:79) ~[Xaeros_Minimap_23.9.7_Forge_1.20.jar%23202!/:23.9.7]
-	... 16 more
-[22:30:18] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
-[22:30:19] [Forge Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.269 Target: null
-[22:30:19] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[22:30:19] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
-[22:30:19] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
-[22:30:19] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
-[22:30:19] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
-[22:30:19] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
-[22:30:20] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
-[22:30:20] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
-[22:30:20] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
-[22:30:20] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
-[22:30:20] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
-[22:30:20] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
-[22:30:21] [Forge Version Check/INFO]: [framework] Found status: BETA Current: 0.6.26 Target: 0.6.26
-[22:30:21] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
-[22:30:21] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
-[22:30:22] [Render thread/INFO]: Registered player tracker system: minimap_synced
-[22:30:22] [Render thread/INFO]: Xaero's Minimap: World Map found!
-[22:30:22] [Render thread/INFO]: Optifine!
-[22:30:22] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
-[22:30:22] [Render thread/WARN]: Mod 'xaerominimap' took 1.197 s to run a deferred task.
-[22:30:22] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
-[22:30:22] [Render thread/INFO]: New world map region cache hash code: 747283566
-[22:30:22] [Render thread/INFO]: Registered player tracker system: map_synced
-[22:30:22] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
-[22:30:22] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
-[22:30:22] [Render thread/INFO]: Registered player tracker system: minimap_synced
-[22:30:22] [Render thread/INFO]: Optifine!
-[22:30:22] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
-[22:30:22] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
-[22:30:22] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
-[22:30:22] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
-[22:30:22] [Forge Version Check/INFO]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[22:30:22] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
-[22:30:22] [Forge Version Check/INFO]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.10 Target: null
-[22:30:22] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
-[22:30:22] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
-[22:30:23] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
-[22:30:23] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
-[22:30:23] [Worker-Main-1/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
-[22:30:23] [Worker-Main-1/INFO]: [OptiFine] Multipass connected textures: false
-[22:30:23] [Worker-Main-1/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[22:30:25] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 4
-[22:30:29] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
-[22:30:29] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[22:30:29] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on 4 - SMART TV (AMD High Definition Audio Device)
-[22:30:29] [Render thread/INFO]: Sound engine started
-[22:30:30] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 55
-[22:30:30] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 128x64, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 128x64, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[22:30:30] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 1
-[22:30:30] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x128, mipmaps: 0
-[22:30:30] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x128, mipmaps: 0
-[22:30:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[22:30:30] [Render thread/INFO]: Successfully reloaded the minimap shaders!
-[22:30:30] [Render thread/INFO]: Successfully reloaded the world map shaders!
-[22:30:30] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
-[22:30:30] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:30] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:30] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:34] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
-[22:30:34] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:glow_item_frame
-[22:30:34] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
-[22:30:35] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:35] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[22:30:35] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
-[22:30:35] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
-[22:30:35] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[22:30:37] [Render thread/ERROR]: [Shaders] OpenGL error: 1282 (Invalid operation), program: none, at: pre-useProgram
-[22:31:03] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
-[22:31:04] [Render thread/ERROR]: Cristel Lib Config Pack has no data
-[22:31:04] [Render thread/WARN]: T&T Waystone Patch Pack accepted!
-[22:31:06] [Render thread/INFO]: Loaded 8 recipes
-[22:31:06] [Render thread/INFO]: Loaded 1459 advancements
-[22:31:07] [Render thread/INFO]: Disconnected from server, resetting proxy config values
-[22:31:07] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
-[22:31:07] [Server thread/INFO]: Generating keypair
-[22:31:07] [Server thread/INFO]: Loading server configs...
-[22:31:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:17] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:18] [Render thread/INFO]: Preparing spawn area: 0%
-[22:31:18] [Render thread/INFO]: Preparing spawn area: 17%
-[22:31:19] [Render thread/INFO]: Preparing spawn area: 67%
-[22:31:19] [Render thread/INFO]: Time elapsed: 8234 ms
-[22:31:19] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
-[22:31:19] [Server thread/INFO]: Changing view distance to 4, from 10
-[22:31:19] [Server thread/INFO]: Changing simulation distance to 5, from 0
-[22:31:19] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
-[22:31:20] [Netty Local Client IO #0/INFO]: Connected to a modded server.
-[22:31:21] [Server thread/INFO]: TungPT[local:E:70ebe2e9] logged in with entity id 257 at (52.555047700647876, 68.0, -14.764078122809076)
-[22:31:21] [Server thread/INFO]: TungPT joined the game
-[22:31:21] [Server thread/INFO]: TungPT has made the advancement [Suit Up]
-[22:31:21] [Server thread/INFO]: TungPT has made the advancement [Acquire Hardware]
-[22:31:21] [Server thread/INFO]: TungPT has made the advancement [Isn't It Iron Pick]
-[22:31:21] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
-[22:31:21] [Render thread/INFO]: New world map session initialized!
-[22:31:21] [Render thread/INFO]: New minimap session initialized!
-[22:31:21] [Render thread/INFO]: [Inventory Profiles Next] Loaded 0 external GUI hints
-[22:31:21] [Render thread/INFO]: [Inventory Profiles Next] Loaded 783 build-in GUI hints
-[22:31:21] [Render thread/INFO]: [Inventory Profiles Next] Effective GUI hints after merge: 783
-[22:31:22] [Render thread/INFO]: Minimap updated server level id: -188676920 for world ResourceKey[minecraft:dimension / minecraft:overworld]
-[22:31:22] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
-[22:31:22] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:glow_item_frame
-[22:31:22] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
-[22:31:22] [Render thread/INFO]: [Shaders] Custom uniform: inSwamp
-[22:31:22] [Render thread/WARN]: [Shaders] net.optifine.expr.ParseException: Model variable not found: BIOME_SWAMP_HILLS
-[22:31:22] [Render thread/INFO]: [Shaders] Custom uniform: BiomeTemp
-[22:31:22] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map distance: 110.0
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map resolution: 3072
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: shadow
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_basic
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map distance: 110.0
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map resolution: 3072
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_textured
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_skybasic
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_skytextured
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_clouds
-[22:31:22] [Render thread/INFO]: [Shaders] colortex0 format: RGBA16
-[22:31:22] [Render thread/INFO]: [Shaders] colortex1 format: RGBA16
-[22:31:22] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16
-[22:31:22] [Render thread/INFO]: [Shaders] colortex3 format: R11F_G11F_B10F
-[22:31:22] [Render thread/INFO]: [Shaders] gaux1 format: RGBA16
-[22:31:22] [Render thread/INFO]: [Shaders] gaux2 format: R11F_G11F_B10F
-[22:31:22] [Render thread/INFO]: [Shaders] gaux3 format: R11F_G11F_B10F
-[22:31:22] [Render thread/INFO]: [Shaders] gaux4 format: R11F_G11F_B10F
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_terrain
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map distance: 110.0
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map resolution: 3072
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_block
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_spidereyes
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_weather
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map distance: 110.0
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map resolution: 3072
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: gbuffers_water
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map distance: 110.0
-[22:31:22] [Render thread/INFO]: [Shaders] Shadow map resolution: 3072
-[22:31:22] [Render thread/INFO]: [Shaders] shadowHardwareFiltering0
-[22:31:22] [Render thread/INFO]: [Shaders] shadowHardwareFiltering1
-[22:31:22] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: composite
-[22:31:22] [Render thread/INFO]: [Shaders] gaux1 mipmap enabled
-[22:31:22] [Render thread/INFO]: [Shaders] Noise texture enabled
-[22:31:22] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
-[22:31:22] [Render thread/INFO]: [Shaders] Wetness halflife: 200.0
-[22:31:22] [Render thread/INFO]: [Shaders] Dryness halflife: 75.0
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: composite1
-[22:31:22] [Render thread/INFO]: [Shaders] colortex7 clear disabled
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: composite2
-[22:31:22] [Render thread/INFO]: [Shaders] Program loaded: final
-[22:31:22] [Render thread/INFO]: [Shaders] usedColorBuffers: 8
-[22:31:22] [Render thread/INFO]: [Shaders] usedDepthBuffers: 3
-[22:31:22] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 1
-[22:31:22] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
-[22:31:22] [Render thread/INFO]: [Shaders] usedColorAttachs: 8
-[22:31:22] [Render thread/INFO]: [Shaders] usedDrawBuffers: 7
-[22:31:22] [Render thread/INFO]: [Shaders] bindImageTextures: false
-[22:31:22] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
-[22:31:22] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
-[22:31:22] [Render thread/INFO]: [Shaders] Reset model renderers
-[22:31:22] [Render thread/INFO]: [Shaders] Reset world renderers
-[22:31:23] [Render thread/INFO]: Reloading entity icon resources...
-[22:31:23] [Render thread/INFO]: Done!
-[22:31:23] [Render thread/INFO]: [System] [CHAT] TungPT has made the advancement [Suit Up]
-[22:31:23] [Render thread/INFO]: [System] [CHAT] TungPT has made the advancement [Acquire Hardware]
-[22:31:23] [Render thread/INFO]: [System] [CHAT] TungPT has made the advancement [Isn't It Iron Pick]
-[22:31:23] [Render thread/INFO]: Loaded 89 advancements
-[22:31:25] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 1.6666666666666667
-[22:31:26] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 1.2
-[22:31:37] [Server thread/INFO]: Saving and pausing game...
-[22:31:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:31:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:31:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:33:08] [Server thread/INFO]: TungPT has made the advancement [Sweet Dreams]
-[22:33:08] [Render thread/INFO]: [System] [CHAT] Respawn point set
-[22:33:08] [Render thread/INFO]: [System] [CHAT] TungPT has made the advancement [Sweet Dreams]
-[22:33:08] [Render thread/INFO]: Loaded 94 advancements
-[22:33:31] [Render thread/INFO]: Loaded 111 advancements
-[22:33:42] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
-[22:33:43] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
-[22:33:55] [Render thread/INFO]: Loaded 111 advancements
-[22:35:09] [Server thread/INFO]: Saving and pausing game...
-[22:35:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:35:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:35:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:35:41] [Render thread/INFO]: Loaded 120 advancements
-[22:36:05] [Render thread/INFO]: Loaded 120 advancements
-[22:36:41] [Server thread/INFO]: TungPT has made the advancement [Stone Age]
-[22:36:41] [Render thread/INFO]: [System] [CHAT] TungPT has made the advancement [Stone Age]
-[22:36:41] [Render thread/INFO]: Loaded 134 advancements
-[22:40:20] [Server thread/INFO]: Saving and pausing game...
-[22:40:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:40:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:40:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:45:06] [Server thread/INFO]: Saving and pausing game...
-[22:45:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:45:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:45:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:48:36] [Render thread/INFO]: Loaded 136 advancements
-[22:50:06] [Render thread/INFO]: Loaded 137 advancements
-[23:00:34] [Render thread/INFO]: Loaded 155 advancements
-[23:02:21] [Render thread/INFO]: Loaded 170 advancements
-[23:02:37] [Render thread/INFO]: Loaded 177 advancements
-[23:02:37] [Render thread/INFO]: Loaded 179 advancements
-[23:02:37] [Render thread/INFO]: Loaded 186 advancements
-[23:02:38] [Render thread/INFO]: Loaded 189 advancements
-[23:02:38] [Server thread/INFO]: TungPT has made the advancement [Diamonds!]
-[23:02:38] [Render thread/INFO]: [System] [CHAT] TungPT has made the advancement [Diamonds!]
-[23:02:38] [Render thread/INFO]: Loaded 200 advancements
-[23:06:05] [Render thread/INFO]: Loaded 201 advancements
-[23:06:35] [Server thread/INFO]: Saving and pausing game...
-[23:06:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[23:06:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[23:06:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[23:07:34] [Server thread/INFO]: Saving and pausing game...
-[23:07:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[23:07:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[23:07:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[23:07:34] [Render thread/INFO]: Finalizing world map session...
-[23:07:34] [Thread-5/INFO]: World map cleaned normally!
-[23:07:34] [Render thread/INFO]: World map session finalized.
-[23:07:34] [Render thread/INFO]: Minimap session finalized.
-[23:07:34] [Render thread/INFO]: Disconnected from server, resetting proxy config values
-[23:07:34] [Server thread/INFO]: TungPT lost connection: Disconnected
-[23:07:34] [Server thread/INFO]: TungPT left the game
-[23:07:34] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[23:07:35] [Server thread/INFO]: Stopping server
-[23:07:35] [Server thread/INFO]: Saving players
-[23:07:35] [Server thread/INFO]: Saving worlds
-[23:07:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[23:07:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[23:07:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[23:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[23:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:07:37] [Server thread/INFO]: Unloading server configs...
-[23:07:40] [Render thread/INFO]: Stopping!
-[23:07:40] [Render thread/INFO]: Disconnected from server, resetting proxy config values
+[07:59:44] [Render thread/INFO]: Setting user: TungPT
+[07:59:44] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[07:59:44] [Render thread/INFO]: [OptiFine] Forge version: 47.2.0
+[07:59:44] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
+[07:59:44] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[07:59:44] [Render thread/INFO]: [OptiFine] 
+[07:59:44] [Render thread/INFO]: [OptiFine] OptiFine_1.20.1_HD_U_I6_pre6
+[07:59:44] [Render thread/INFO]: [OptiFine] Build: 20230727-130058
+[07:59:44] [Render thread/INFO]: [OptiFine] OS: Mac OS X (aarch64) version 14.1.2
+[07:59:44] [Render thread/INFO]: [OptiFine] Java: 17.0.3, Microsoft
+[07:59:44] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[07:59:44] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Cocoa NSGL Null EGL OSMesa monotonic dynamic
+[07:59:44] [Render thread/INFO]: [OptiFine] OpenGL: Apple M1 Pro, version 4.1 Metal - 88, Apple
+[07:59:44] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.1.0
+[07:59:44] [Render thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[07:59:44] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[07:59:44] [Render thread/INFO]: [Shaders] OpenGL Version: 4.1 Metal - 88
+[07:59:44] [Render thread/INFO]: [Shaders] Vendor:  Apple
+[07:59:44] [Render thread/INFO]: [Shaders] Renderer: Apple M1 Pro
+[07:59:44] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[07:59:44] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[07:59:44] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[07:59:44] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 16
+[07:59:44] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[07:59:44] [Render thread/INFO]: [Shaders] Loaded shaderpack: (internal)
+[07:59:44] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[07:59:44] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[07:59:44] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[07:59:44] [modloading-worker-0/INFO]: Initialize mod Library Ferret
+[07:59:44] [modloading-worker-0/INFO]: Initialized mod Library Ferret
+[07:59:44] [modloading-worker-0/INFO]: Mod uteamcore is signed with a valid certificate.
+[07:59:44] [modloading-worker-0/INFO]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[07:59:44] [modloading-worker-0/INFO]: MinecraftForge v47.2.0 Initialized
+[07:59:44] [modloading-worker-0/INFO]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[07:59:44] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[07:59:44] [modloading-worker-0/INFO]: [libIPN] libIPN - init in Kotlin
+[07:59:45] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.20.1/HD_U.txt
+[07:59:45] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[07:59:45] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[07:59:45] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[07:59:45] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[07:59:45] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, high_contrast
+[07:59:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:45] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[07:59:45] [Render thread/INFO]: [OptiFine] Resource packs: mod_resources, high_contrast
+[07:59:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:45] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[07:59:45] [Worker-Main-1/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[07:59:45] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-3/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
+[07:59:45] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Sprite size: 64
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Mipmap levels: 6
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[07:59:45] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
+[07:59:45] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[07:59:45] [Worker-Main-5/INFO]: [OptiFine] Mipmap levels: 4
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[07:59:45] [Worker-Main-3/INFO]: [OptiFine] Multipass connected textures: false
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Mipmap levels: 4
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
+[07:59:45] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
+[07:59:45] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
+[07:59:45] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
+[07:59:46] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
+[07:59:46] [Worker-Main-3/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] Multipass connected textures: false
+[07:59:46] [Forge Version Check/INFO]: [toolswap] Starting version check at https://assets.melanx.de/updates/automatic-tool-swap.json
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[07:59:46] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[07:59:46] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[07:59:46] [Render thread/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[07:59:46] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[07:59:46] [Worker-Main-7/INFO]: Loading Xaero's World Map - Stage 1/2
+[07:59:46] [Worker-Main-4/INFO]: Loading Xaero's Minimap - Stage 1/2
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[07:59:46] [Forge Version Check/INFO]: [toolswap] Found status: BETA_OUTDATED Current: 1.20.1-5.0.0 Target: 1.20.1-5.0.1
+[07:59:46] [Forge Version Check/INFO]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[07:59:46] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] Multipass connected textures: false
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[07:59:47] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[07:59:47] [Forge Version Check/INFO]: [reap] Found status: AHEAD Current: 1.20.1-1.1.0 Target: null
+[07:59:47] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[07:59:47] [Worker-Main-3/INFO]: [OptiFine] Mipmap levels: 4
+[07:59:47] [Forge Version Check/INFO]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.12 Target: null
+[07:59:47] [Forge Version Check/INFO]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[07:59:48] [Forge Version Check/INFO]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.18 Target: null
+[07:59:48] [Forge Version Check/INFO]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[07:59:48] [Forge Version Check/INFO]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.3 Target: 1.20-1.6.1
+[07:59:48] [Forge Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[07:59:48] [Forge Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.269 Target: null
+[07:59:48] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[07:59:48] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[07:59:48] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[07:59:48] [Render thread/INFO]: Optifine!
+[07:59:48] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[07:59:48] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[07:59:48] [Render thread/INFO]: New world map region cache hash code: -2037030683
+[07:59:48] [Render thread/INFO]: Registered player tracker system: map_synced
+[07:59:48] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[07:59:48] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[07:59:48] [Render thread/INFO]: Optifine!
+[07:59:48] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[07:59:49] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[07:59:49] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[07:59:49] [Render thread/INFO]: OpenAL initialized on device CoreAudio Default
+[07:59:49] [Render thread/INFO]: Sound engine started
+[07:59:49] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 55
+[07:59:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 128x64, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 128x64, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[07:59:49] [Forge Version Check/INFO]: [framework] Found status: BETA Current: 0.6.26 Target: 0.6.26
+[07:59:49] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07:59:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[07:59:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x128, mipmaps: 0
+[07:59:49] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x128, mipmaps: 0
+[07:59:49] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[07:59:49] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[07:59:49] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[07:59:49] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[07:59:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:50] [Render thread/INFO]: [OptiFine] Using legacy block aliases: flattening_ids.txt
+[07:59:50] [Render thread/INFO]: [OptiFine] Legacy block aliases: 2751
+[07:59:50] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[07:59:50] [Forge Version Check/INFO]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[07:59:50] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:50] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[07:59:50] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[07:59:50] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[07:59:50] [Forge Version Check/INFO]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.10 Target: null
+[07:59:52] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[07:59:56] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[07:59:56] [Render thread/ERROR]: Cristel Lib Config Pack has no data
+[07:59:56] [Render thread/WARN]: T&T Waystone Patch Pack accepted!
+[07:59:57] [Render thread/INFO]: Loaded 8 recipes
+[07:59:57] [Render thread/INFO]: Loaded 1459 advancements
+[07:59:57] [Render thread/INFO]: Disconnected from server, resetting proxy config values
+[07:59:57] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[07:59:57] [Server thread/INFO]: Generating keypair
+[07:59:57] [Server thread/INFO]: Loading server configs...
+[07:59:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:00:01] [Render thread/INFO]: Preparing spawn area: 0%
+[08:00:01] [Render thread/INFO]: Preparing spawn area: 0%
+[08:00:01] [Render thread/INFO]: Preparing spawn area: 0%
+[08:00:01] [Render thread/INFO]: Preparing spawn area: 0%
+[08:00:01] [Render thread/INFO]: Preparing spawn area: 0%
+[08:00:02] [Render thread/INFO]: Preparing spawn area: 0%
+[08:00:02] [Render thread/INFO]: Preparing spawn area: 57%
+[08:00:02] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[08:00:02] [Render thread/INFO]: Time elapsed: 3146 ms
+[08:00:02] [Server thread/INFO]: Changing view distance to 16, from 10
+[08:00:02] [Server thread/INFO]: Changing simulation distance to 10, from 0
+[08:00:02] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[08:00:03] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[08:00:03] [Server thread/INFO]: TungPT[local:E:8779b70f] logged in with entity id 241 at (84.13090777145231, 63.0, 41.904990160031936)
+[08:00:03] [Server thread/INFO]: TungPT joined the game
+[08:00:03] [Render thread/INFO]: New world map session initialized!
+[08:00:03] [Render thread/INFO]: New minimap session initialized!
+[08:00:03] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
+[08:00:03] [Render thread/INFO]: [Inventory Profiles Next] Loaded 0 external GUI hints
+[08:00:03] [Render thread/INFO]: [Inventory Profiles Next] Loaded 783 build-in GUI hints
+[08:00:03] [Render thread/INFO]: [Inventory Profiles Next] Effective GUI hints after merge: 783
+[08:00:03] [Render thread/INFO]: Minimap updated server level id: -188676920 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[08:00:03] [Render thread/WARN]: Received passengers for unknown entity
+[08:00:03] [Render thread/INFO]: Loaded 347 advancements
+[08:00:04] [Render thread/INFO]: [Shaders] Program info log: final
+WARNING: Could not find vertex shader attribute 'vaColor' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'vaUV2' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'vaUV1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'vaNormal' to match BindAttributeLocation request.
+WARNING: Could not find fragment shader output 'outColor7' to match FragDataBinding request.
+WARNING: Could not find fragment shader output 'outColor2' to match FragDataBinding request.
+WARNING: Could not find fragment shader output 'outColor3' to match FragDataBinding request.
+WARNING: Could not find fragment shader output 'outColor5' to match FragDataBinding request.
+WARNING: Could not find fragment shader output 'outColor6' to match FragDataBinding request.
+WARNING: Could not find fragment shader output 'outColor1' to match FragDataBinding request.
+WARNING: Could not find fragment shader output 'outColor4' to match FragDataBinding request.
+[08:00:04] [Render thread/INFO]: [Shaders] Program loaded: final
+[08:00:04] [Render thread/INFO]: [Shaders] usedColorBuffers: 4
+[08:00:04] [Render thread/INFO]: [Shaders] usedDepthBuffers: 1
+[08:00:04] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 0
+[08:00:04] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 0
+[08:00:04] [Render thread/INFO]: [Shaders] usedColorAttachs: 4
+[08:00:04] [Render thread/INFO]: [Shaders] usedDrawBuffers: 1
+[08:00:04] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[08:00:04] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[08:00:04] [Render thread/INFO]: [Shaders] Reset model renderers
+[08:00:04] [Render thread/INFO]: [Shaders] Reset world renderers
+[08:00:04] [Render thread/INFO]: Reloading entity icon resources...
+[08:00:04] [Render thread/INFO]: Done!
+[08:00:06] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[08:00:15] [Server thread/INFO]: Saving and pausing game...
+[08:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[08:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[08:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:00:17] [Server thread/INFO]: Saving and pausing game...
+[08:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[08:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[08:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:00:22] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 1.0
+[08:00:22] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 0.9
+[08:03:59] [Render thread/INFO]: Stopping!
+[08:03:59] [Render thread/INFO]: Finalizing world map session...
+[08:03:59] [Server thread/INFO]: TungPT lost connection: Disconnected
+[08:03:59] [Server thread/INFO]: TungPT left the game
+[08:03:59] [Thread-5/INFO]: World map cleaned normally!
+[08:03:59] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[08:03:59] [Server thread/INFO]: Stopping server
+[08:03:59] [Server thread/INFO]: Saving players
+[08:03:59] [Server thread/INFO]: Saving worlds
+[08:03:59] [Render thread/INFO]: World map session finalized.
+[08:03:59] [Render thread/INFO]: Minimap session finalized.
+[08:03:59] [Render thread/INFO]: Disconnected from server, resetting proxy config values
+[08:03:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[08:04:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[08:04:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[08:04:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[08:04:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:04:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:04:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:04:00] [Server thread/INFO]: Unloading server configs...
